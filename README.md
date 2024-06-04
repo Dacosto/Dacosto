@@ -1,4 +1,4 @@
-
+![che-guevara-arjin-production](https://github.com/Dacosto/Dacosto/assets/135465421/93345cf3-887c-48bc-b904-69cd6d73754a)
 <h3 align="center">A passionate young developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dacosto&label=Profile%20views&color=0e75b6&style=flat" alt="dacosto" /> </p>
