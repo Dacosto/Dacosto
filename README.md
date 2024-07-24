@@ -9,13 +9,8 @@
 
 - 🌱 I’m currently learning **Python, C++**
 
-- 👯 I’m looking to collaborate on [/](/)
-
-- 🤝 I’m looking for help with [/](/)
 
 - 👨‍💻 All of my projects are available at [Will be updated](Will be updated)
-
-- 💬 Ask me about **Makedon Development**
 
 - 📫 How to reach me **sooninfo@gmail.com**
 
